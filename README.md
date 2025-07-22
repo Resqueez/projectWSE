@@ -4,20 +4,20 @@ Dawid Sznajder, Informatyka Stosowana I rok:
 
 https://wokwi.com/projects/321677895528350291
 
-Projekt przedstawia mikrokontroler Arduino MEGA z programem sterujacym
+Projekt przedstawia mikrokontroler Arduino MEGA z programem sterującym
 w symulatorze WOKWI. 
 
-Za przyjeta metode dzialania mozna uznac zamiane liczb w systemie binarnym
-na system dziesietny. 4 diody symbolizuja wagi bitow w zapisie dwojkowym.
-W momencie gdy LED jest zapalony utozsamiamy go z cyfra "1" natomiast zgaszony
-z cyfra "0".
+Za przyjetą metodę działania można uznać zamianę liczb w systemie binarnym
+na system dziesiętny. 4 diody symbolizują wagi bitów w zapisie dwójkowym.
+W momencie gdy LED jest zapalony utożsamiamy go z cyfrą "1" natomiast zgaszony
+z cyfrą "0".
 
-Przekrecajac wskazowke potencjometru mozemy regulowac napiecie. Ustawiajac
-niskie napiecie zwiekszamy szybkosc wykonywania sie petli; zwiekszajac
-napiecie petla przebiega wolniej.
+Przekręcając wskazówkę potencjometru możemy regulować napięcie. 
+Ustawiając niskie napięcie zwiększamy szybkość wykonywania się petli; zwiększając
+napięcie pętla przebiega wolniej.
 
-Wada projektu jest to ze trzeba na starcie przestawic napiecie na
-potencjometrze przekrecajac wskazowke w prawa strone po to
-aby petla przebiegala wolniej i mozna bylo zobaczyc 
-dzialanie projektu; najpierw nalezy uruchomic symulacje nastepnie
-zwiekszyc napiecie.
+Wadą projektu jest to, że trzeba na starcie przestawić napięcie 
+na potencjometrze przekręcając wskazówkę w prawą stronę po to,
+aby pętla przebiegała wolniej i można było zobaczyć 
+działanie projektu. Najpierw należy uruchomić symulację, następnie
+zwiększyć napięcie.
