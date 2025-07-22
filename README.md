@@ -13,7 +13,7 @@ W momencie gdy LED jest zapalony utożsamiamy go z cyfrą "1" natomiast zgaszony
 z cyfrą "0".
 
 Przekręcając wskazówkę potencjometru możemy regulować napięcie. 
-Ustawiając niskie napięcie zwiększamy szybkość wykonywania się petli; zwiększając
+Ustawiając niskie napięcie zwiększamy szybkość wykonywania się pętli; zwiększając
 napięcie pętla przebiega wolniej.
 
 Wadą projektu jest to, że trzeba na starcie przestawić napięcie 
